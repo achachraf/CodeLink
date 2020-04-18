@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://achraf:achkari12345@devcluster-aailz.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClient" :"54a9af9abe1685f67627",
+    "githubSecret" : "dec2135a3000f288d6a7a8516fe38e9a86af72c9"
+}

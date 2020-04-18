@@ -1,0 +1,10 @@
+1- Change the name/slogans (maybe logo) (done)
+2- change some designs (done)
+3- add the MongoDB search for users (done)
+4- deploy
+
+
+=============================
+1- adjuste data in DB
+2- try the netfly host
+3- start report

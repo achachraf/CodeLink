@@ -1,0 +1,1 @@
+This is a post from Achraf Achkari to test the functionality of creating posts in this application that's connected with a NoSQL Database [MongoDB]
